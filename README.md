@@ -9,3 +9,5 @@ These files are contiguous-use.txt and codes.csv.
 Uses simple data structures like arraylists to complete the task. 
 
 PrintState() will list all of the neighboring states for each state in the US. 
+
+The findPath() method takes two arguments, the string abbreviation for two states, and will return whether or not such a path between the states exist.
